@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. Welcome to my HUB. I'm Bernard, a young guy aiming to always learn more across different career feilds.
 
 <!--
 **BQuophi/BQuophi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
