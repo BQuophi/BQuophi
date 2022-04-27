@@ -1,5 +1,9 @@
-### Hi there 👋. Welcome to my HUB. I'm Bernard, a young guy aiming to always learn more across different career feilds.
+### Hi there 👋. Welcome to my HUB. I'm Bernard, a Data Science and Artificial Intelligence Novice aiming to always learn more and develop in a world where data is everywhere.
 
+
+⚡ Fun fact: I enjoy playing chess  and monopoly
+
+📫 How to reach me: iambenzeph@gmail.com
 <!--
 **BQuophi/BQuophi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
