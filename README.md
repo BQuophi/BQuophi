@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Bernard </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Welcome to my HUB. 
+### Welcome to my HUB. 
+
 I'm a Data Science and Artificial Intelligence Novice aiming to always learn more and develop in a world where data is everywhere.
 
 
