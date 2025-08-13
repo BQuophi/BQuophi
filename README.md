@@ -6,6 +6,8 @@
 
 I'm an engineer on a structured journey to build deep expertise in AI, Data Engineering, and Full-Stack Development. This profile documents my process, from first principles to production-grade systems.
 
+<img align="right" alt="Coding" width="300" height="300" src="https://github.com/lins-n/lins-n/blob/main/coded%20copy.jpg">
+
 My philosophy is built on a simple, daily action: **Lay one brick.**
 
 #### 📌 Focus
