@@ -36,7 +36,10 @@ This is the toolkit I'm currently building with. It will grow and evolve over ti
 
 
 ### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=BQuophi&theme=dark&hide_border=false)<br/>
+
+![](https://komarev.com/ghpvc/?username=BQuophi&style=blueviolet)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BQuophi&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BQuophi&limit=5&theme=dark&combine_all_yearly_contributions=true)
