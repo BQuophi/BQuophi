@@ -6,7 +6,7 @@
 
 I'm an engineer on a structured journey to build deep expertise in AI, Data Engineering, and Full-Stack Development. This profile documents my process, from first principles to production-grade systems.
 
-<img align="right" alt="Coding" width="300" height="300" src="https://github.com/lins-n/lins-n/blob/main/coded%20copy.jpg">
+<img align="right" alt="Coding" width="350" height="400" src="https://github.com/BQuophi/BQuophi/blob/main/memoji_ben.png">
 
 My philosophy is built on a simple, daily action: **Lay one brick.**
 
