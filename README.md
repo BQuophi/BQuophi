@@ -24,7 +24,7 @@ My philosophy is built on a simple, daily action: **Lay one brick.**
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### 🛠️ My Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
 
 This is the toolkit I'm currently building with. It will grow and evolve over time.
 
