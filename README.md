@@ -18,7 +18,7 @@ My philosophy is built on a simple, daily action: **Lay one brick.**
 
 #### 🌱 I'm Currently Focused On:
 * **Phase 1: The Dual Foundation**
-* Deeply understanding **Computer Science Principles** with SICP.
+* Deeply understanding **Computer Science Principles** with Composing Programs.
 * Learning **User-Centered Design** from *The Design of Everyday Things*.
 * Building a strong foundation in **Python** and Algorithms.
 
