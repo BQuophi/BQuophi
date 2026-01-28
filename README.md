@@ -5,8 +5,8 @@
   Accra, Ghana 🇬🇭
 </p>
 
+
 <p align="center">
-  <!-- Badges: edit links/usernames -->
   <a href="https://www.linkedin.com/in/bernard-zephaniah-addo-addo-6a728b220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -17,10 +17,11 @@
   <img src="https://img.shields.io/badge/Focus-ML%20Systems%20%7C%20Data%20Pipelines-green?style=flat" />
 </p>
 
+<img align="right" alt="Coding" width="250" height="200" src="https://github.com/BQuophi/BQuophi/blob/main/memoji_ben.png">
+
 ---
 
 ## 👨🏾‍💻 About Me
-
 I'm an engineer focused on turning ideas into **APIs, data pipelines, and intelligent assistants**.
 
 - 🧠 I care about both **how systems work** and **whether they are fair**.  
